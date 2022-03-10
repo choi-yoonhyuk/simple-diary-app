@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/simple-diary-app/static/css/main.a22abf00.css",
-    "main.js": "/simple-diary-app/static/js/main.4c40662e.js",
+    "main.js": "/simple-diary-app/static/js/main.66aedfc6.js",
     "index.html": "/simple-diary-app/index.html",
     "main.a22abf00.css.map": "/simple-diary-app/static/css/main.a22abf00.css.map",
-    "main.4c40662e.js.map": "/simple-diary-app/static/js/main.4c40662e.js.map"
+    "main.66aedfc6.js.map": "/simple-diary-app/static/js/main.66aedfc6.js.map"
   },
   "entrypoints": [
     "static/css/main.a22abf00.css",
-    "static/js/main.4c40662e.js"
+    "static/js/main.66aedfc6.js"
   ]
 }
